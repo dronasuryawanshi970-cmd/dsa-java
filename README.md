@@ -6,6 +6,7 @@ My DSA and Java learning journey
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -30,6 +31,7 @@ My DSA and Java learning journey
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0036-valid-sudoku) |
+| [0242-valid-anagram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
@@ -39,4 +41,8 @@ My DSA and Java learning journey
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0036-valid-sudoku) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
