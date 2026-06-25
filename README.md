@@ -6,6 +6,7 @@ My DSA and Java learning journey
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/1021-remove-outermost-parentheses) |
@@ -45,4 +46,8 @@ My DSA and Java learning journey
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
