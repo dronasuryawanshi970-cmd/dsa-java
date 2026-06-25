@@ -29,5 +29,14 @@ My DSA and Java learning journey
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0036-valid-sudoku) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Array
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
