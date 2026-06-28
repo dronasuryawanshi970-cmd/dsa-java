@@ -32,6 +32,7 @@ My DSA and Java learning journey
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0036-valid-sudoku) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
@@ -50,10 +51,12 @@ My DSA and Java learning journey
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
