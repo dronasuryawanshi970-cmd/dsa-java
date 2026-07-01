@@ -24,6 +24,7 @@ My DSA and Java learning journey
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0002-add-two-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -61,6 +62,7 @@ My DSA and Java learning journey
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0142-linked-list-cycle-ii) |
@@ -71,6 +73,7 @@ My DSA and Java learning journey
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0234-palindrome-linked-list) |
