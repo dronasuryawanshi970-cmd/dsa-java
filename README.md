@@ -59,6 +59,7 @@ My DSA and Java learning journey
 | [0151-reverse-words-in-a-string](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0234-palindrome-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +71,7 @@ My DSA and Java learning journey
 | [0206-reverse-linked-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
