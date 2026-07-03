@@ -43,10 +43,12 @@ My DSA and Java learning journey
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0054-spiral-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -79,4 +81,8 @@ My DSA and Java learning journey
 | [0021-merge-two-sorted-lists](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
