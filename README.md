@@ -57,6 +57,7 @@ My DSA and Java learning journey
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0148-sort-list) |
@@ -69,6 +70,7 @@ My DSA and Java learning journey
 | ------- |
 | [0002-add-two-numbers](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0148-sort-list) |
