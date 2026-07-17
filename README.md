@@ -21,6 +21,7 @@ My DSA and Java learning journey
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/1021-remove-outermost-parentheses) |
 ## Math
@@ -100,4 +101,8 @@ My DSA and Java learning journey
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
