@@ -24,6 +24,7 @@ My DSA and Java learning journey
 | [0155-min-stack](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -50,6 +51,7 @@ My DSA and Java learning journey
 | [0036-valid-sudoku](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0054-spiral-matrix) |
 | [0496-next-greater-element-i](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0503-next-greater-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -112,4 +114,5 @@ My DSA and Java learning journey
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
