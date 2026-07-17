@@ -23,6 +23,7 @@ My DSA and Java learning journey
 | [0020-valid-parentheses](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -41,12 +42,14 @@ My DSA and Java learning journey
 | [0142-linked-list-cycle-ii](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0054-spiral-matrix) |
+| [0496-next-greater-element-i](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -105,4 +108,8 @@ My DSA and Java learning journey
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
