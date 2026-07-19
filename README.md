@@ -28,6 +28,7 @@ My DSA and Java learning journey
 | [0503-next-greater-element-ii](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/1021-remove-outermost-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ My DSA and Java learning journey
 | [0496-next-greater-element-i](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/2104-sum-of-subarray-ranges) |
 ## Matrix
 |  |
 | ------- |
@@ -122,6 +124,7 @@ My DSA and Java learning journey
 | [0496-next-greater-element-i](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
