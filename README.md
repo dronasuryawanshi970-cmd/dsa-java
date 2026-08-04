@@ -60,6 +60,7 @@ My DSA and Java learning journey
 | [0042-trapping-rain-water](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0735-asteroid-collision) |
@@ -140,4 +141,24 @@ My DSA and Java learning journey
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0907-sum-of-subarray-minimums) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
