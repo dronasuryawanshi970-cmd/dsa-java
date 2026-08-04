@@ -9,6 +9,7 @@ My DSA and Java learning journey
 | [0020-valid-parentheses](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -25,6 +26,7 @@ My DSA and Java learning journey
 | [0084-largest-rectangle-in-histogram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0735-asteroid-collision) |
@@ -39,6 +41,7 @@ My DSA and Java learning journey
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -127,6 +130,7 @@ My DSA and Java learning journey
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0907-sum-of-subarray-minimums) |
