@@ -46,6 +46,7 @@ My DSA and Java learning journey
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0142-linked-list-cycle-ii) |
@@ -56,6 +57,7 @@ My DSA and Java learning journey
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/dronasuryawanshi970-cmd/dsa-java/tree/master/0054-spiral-matrix) |
